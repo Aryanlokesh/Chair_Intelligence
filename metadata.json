@@ -1,0 +1,6 @@
+{
+  "name": "Chair Intelligence",
+  "description": "The world's most unnecessarily advanced digital twin of a chair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
